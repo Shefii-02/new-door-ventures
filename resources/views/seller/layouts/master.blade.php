@@ -18,7 +18,7 @@
 
     <link media="all" type="text/css" rel="stylesheet" href="{{ asset('themes/dashboard/core.css')}}">
   
-
+   
 
     <link href="{{ asset('images/backgrounds/favicon.png') }}" rel="shortcut icon">
 
