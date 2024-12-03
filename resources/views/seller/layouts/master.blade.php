@@ -15,6 +15,11 @@
     <script defer src="https://cdn.jsdelivr.net/npm/@alpinejs/mask@3.x.x/dist/cdn.min.js"></script>
     @stack('header')
 
+
+    <link media="all" type="text/css" rel="stylesheet" href="{{ asset('themes/dashboard/core.css')}}">
+  
+
+
     <link href="{{ asset('images/backgrounds/favicon.png') }}" rel="shortcut icon">
 
     <meta name="csrf-token" content="Bl4Hm9d2qAhOAlT3i5zrySuIkWhu45jOtVScjkb7">
